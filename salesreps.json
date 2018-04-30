@@ -1,0 +1,59 @@
+ [ 
+
+        {
+            "userID": 71,
+            "name": "Sean O'Connor",
+            "email": "sean.oconnor@rjweng.com",
+            "areas": [1, 30, 34]
+        },
+
+        {
+            "userID": 99,
+            "name": "Tony King",
+            "email": "tony.king@rjweng.com",
+            "areas": [41, 42]
+        },
+
+        {
+            "userID": 94,
+            "name": "Paul Nowicki",
+            "email": "paul.nowicki@rjweng.com",
+            "areas": [3]
+        },
+
+        {
+            "userID": 62,
+            "name": "Gerry Downey",
+            "email": "gerry.downey@rjweng.com",
+            "areas": [18, 40, 27, 22, 7]
+        },
+
+        {
+            "userID": 96,
+            "name": "Andrew Lavery",
+            "email": "andrew.lavery@rjweng.com",
+            "areas": [8, 9, 10]
+        },
+
+        {
+            "userID": 18,
+            "name": "Keith Ryall",
+            "email": "keith.ryall@rjweng.com",
+            "areas": [12, 38, 39, 17, 35]
+        },
+
+        {
+            "userID": 56,
+            "name": "Mark Jackson",
+            "email": "mark.jackson@rjweng.com",
+            "areas": [2, 32, 7]
+        },
+        
+        {
+            "userID": 98,
+            "name": "David Lawrence",
+            "email": "david.lawrence@rjweng.com",
+            "areas": [4, 5, 18]
+        }
+    ]
+
